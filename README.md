@@ -6,7 +6,7 @@ The primary objectives of this project were as follows:
 
 1. **Modernization**: Revamp the existing website to give it a modern look and feel. This involved updating the design, layout, and overall user experience.
 
-2. **Enhanced User Appeal **: The aim was to attract a wider range of potential customers by making the website more visually appealing and user-friendly.
+2. **Enhanced User Appeal**: The aim was to attract a wider range of potential customers by making the website more visually appealing and user-friendly.
 
 3. **Performance Optimization**: Optimize the website's performance to ensure fast loading times and smooth navigation.
 
