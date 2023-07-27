@@ -1,47 +1,51 @@
-# Astro Starter Kit: Minimal
+# Project Renovation: Client Website Modernization Overview
+This repository contains the code and design assets for the website renovation project for our client. The goal of this project was to modernize their existing website and enhance its appeal to a wider potential customer base. We worked in a team of 6, utilizing the Tech stack consisting of Astro, Tailwind CSS, and JavaScript for development, and Figma for the design process. Pair programming was employed to ensure efficient collaboration and high-quality code.
 
-```
-npm create astro@latest -- --template minimal
-```
+## Project Objectives
+The primary objectives of this project were as follows:
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+1. **Modernization**: Revamp the existing website to give it a modern look and feel. This involved updating the design, layout, and overall user experience.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+2. **Enhanced User Appeal **: The aim was to attract a wider range of potential customers by making the website more visually appealing and user-friendly.
 
-## 🚀 Project Structure
+3. **Performance Optimization**: Optimize the website's performance to ensure fast loading times and smooth navigation.
 
-Inside of your Astro project, you'll see the following folders and files:
+4. **Responsive Design**: Ensure that the website is fully responsive across various devices and screen sizes.
 
-```
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Tech Stack
+The project was built using the following technologies:
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- **Astro**: A static site builder that allows us to create high-performance websites with a modern development workflow.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- **Tailwind CSS**: A utility-first CSS framework that helped us rapidly build a responsive and customized user interface.
 
-Any static assets, like images, can be placed in the `public/` directory.
+- **JavaScript**: Used to add interactive elements and enhance user experience on the website.
 
-## 🧞 Commands
+- **Figma**: Employed for the design phase to create mockups and collaborate on the visual aspects of the website.
 
-All commands are run from the root of the project, from a terminal:
+## Team Collaboration
+Throughout the project, we embraced a pair programming approach. This collaborative technique allowed us to share knowledge, minimize errors, and increase productivity. By working in pairs, we ensured that the code quality remained high and consistent across all aspects of the project.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## Project Structure
+The repository is organized as follows:
 
-## 👀 Want to learn more?
+/src: This directory contains the source code of the website.
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+/design: Here, you can find the design files created using Figma, including wireframes and mockups.
+
+/docs: This directory holds the documentation and any relevant resources associated with the project.
+
+## Getting Started
+
+To run the website locally, follow these steps:
+
+Clone this repository to your local machine.
+
+Navigate to the /src directory.
+
+Install the required dependencies by running npm install.
+
+Start the development server using npm run dev.
+
+Open your browser and visit http://localhost:3000 to view the website.
+
